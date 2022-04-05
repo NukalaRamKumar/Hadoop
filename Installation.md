@@ -282,12 +282,12 @@ firewall-cmd --reload
 ```
 
 ### 7. Acess Hadoop
-To access the Namenode, open your web browser and visit the URL **http://your-server-ip:9870**. You should see the following screen:
+To access the Namenode, open your web browser and visit the URL **`http://your-server-ip:9870`**. You should see the following screen:
 ```
 http://localhost:9870
 ```
 
-To access the Resource Manage, open your web browser and visit the URL **http://your-server-ip:8088**. You should see the following screen:
+To access the Resource Manage, open your web browser and visit the URL **`http://your-server-ip:8088``**. You should see the following screen:
 ```
 http://localhost:8088
 ```
